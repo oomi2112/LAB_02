@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LAB_02</string>
+    <string name="gui_text" />
+    <string name="click_here" />
+    <string name="check_this_out" />
+    <string name="switch_on_off" />
+    <string name="type_here" />
+    <string name="Hello_message" />
+    <string name="flag_description" />
+    <string name="toast_message" />
+    <string name="snackbar_on" />
+    <string name="snackbar_off" />
+    <string name="snackbar_undo" />
+    <string name="image_button_message" />
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My app</string>
+    <string name="Hello_message">Hello, World!</string>
+    <string name="gui_text">Welcome to my GUI </string>
+    <string name="click_here">Click Here</string>
+    <string name="check_this_out">Check this out!</string>
+    <string name="switch_on_off">Switch On/Off</string>
+    <string name="type_here">Type here...</string>
+    <string name="flag_description">Its the only trianglural flag in the World</string>
+    <string name="toast_message">Your toast message here!</string>
+    <string name="snackbar_on">Switch is ON</string>
+    <string name="snackbar_off">Switch is OFF</string>
+    <string name="snackbar_undo">Undo</string>
+    <string name="image_button_message">Image Button Clicked!</string>
+
+
+    <string name="app_name">Android Lab 2</string>
+    <string name="toast_message">Button clicked!</string>
+    <string name="flag_description">This is a flag icon</string>
+    <string name="Hello_message">Hello, welcome to the app!</string> <!-- Add this -->
+
+
+</resources>
